@@ -1,4 +1,4 @@
-from sqlalchemy.orm import Mapped, mapped_column
+from sqlalchemy.orm import usernameMapped, mapped_column
 
 from car_api.models import Base
 
